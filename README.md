@@ -1,6 +1,6 @@
 # Udap-hiring
 
-## 能合约开发工程师
+## 智能合约开发工程师
 - 精通 Go / Nodejs / Solidity 中一种
 - 熟悉 Bitcoin、Ethereum、Hyperledger 这3个项目
   

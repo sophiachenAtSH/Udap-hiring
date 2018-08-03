@@ -1,4 +1,5 @@
-# Udap-hiring
+# UDAP-hiring
+项目官方网站及白皮书 https://www.udap.io
 
 ## 智能合约开发工程师
 - 精通 Go / Nodejs / Solidity 中一种
